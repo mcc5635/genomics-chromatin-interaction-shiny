@@ -1,4 +1,4 @@
-# DNA Rchitect Developer Version
+# Genomics Shiny Developer Version
 
 ############ ISSUES:
 ## 1. Add expected input and expected output
